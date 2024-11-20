@@ -25,14 +25,21 @@ Here’s an overview of the repository files and their purposes:
 `Music Analysis PPT.pptx`
 
 • A presentation that outlines:
+
   ‣  The project’s objectives, methodology, and key insights.
+  
   ‣  Graphs and charts derived from the EDA.
+  
   ‣  Summary of the recommendation system’s design and future scope.
+  
 **🎯 Objectives**
+
 The goal of this project is to:
 
 • Analyze the attributes of songs to uncover trends and patterns in music listening.
+
 • Develop a hybrid recommendation system combining collaborative filtering and content-based techniques.
+
 • Enhance the user experience by recommending songs that balance familiarity with novelty.
 
 **🚀 Features**
